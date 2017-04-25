@@ -1,9 +1,14 @@
-# api documentation for  [any-promise (v1.3.0)](http://github.com/kevinbeaty/any-promise)  [![npm package](https://img.shields.io/npm/v/npmdoc-any-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-any-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-any-promise.svg)](https://travis-ci.org/npmdoc/node-npmdoc-any-promise)
+# npmdoc-any-promise
+
+#### basic api documentation for  [any-promise (v1.3.0)](http://github.com/kevinbeaty/any-promise)  [![npm package](https://img.shields.io/npm/v/npmdoc-any-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-any-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-any-promise.svg)](https://travis-ci.org/npmdoc/node-npmdoc-any-promise)
+
 #### Resolve any installed ES6 compatible promise
 
-[![NPM](https://nodei.co/npm/any-promise.png?downloads=true)](https://www.npmjs.com/package/any-promise)
+[![NPM](https://nodei.co/npm/any-promise.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/any-promise)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-any-promise/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-any-promise%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-any-promise/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-any-promise/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-any-promise/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-any-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-any-promise/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-any-promise/build/screenCapture.npmPackageListing.svg)
 
@@ -59,13 +64,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "kevinbeaty",
-            "email": "kevin@simplectic.com"
+            "name": "kevinbeaty"
         }
     ],
     "name": "any-promise",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kevinbeaty/any-promise.git"
@@ -74,19 +77,10 @@
         "test": "ava"
     },
     "typings": "index.d.ts",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module any-promise](#apidoc.module.any-promise)
-
-
-
-# <a name="apidoc.module.any-promise"></a>[module any-promise](#apidoc.module.any-promise)
 
 
 
